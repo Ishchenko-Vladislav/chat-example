@@ -1,0 +1,24 @@
+.me {
+  color: blue;
+  text-align: right;
+}
+.form {
+  position: absolute;
+  bottom: 40px;
+  display: flex;
+  width: 600px;
+  justify-content: space-around;
+  align-items: center;
+}
+.input {
+  border: 1px solid black;
+  outline: none;
+  background: none;
+  width: 300px;
+}
+.blockMessage {
+  /* border: 1px solid black; */
+  width: 60vw;
+  height: 75vh;
+  overflow-y: auto;
+}
